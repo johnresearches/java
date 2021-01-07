@@ -5,7 +5,6 @@ import java.util.Collections;
 import java.util.List;
 import java.util.PriorityQueue;
 
-
 public class DijkstraShortestPath{
 	
 	public void computeShortestPaths(Vertex sourceVertex) {
