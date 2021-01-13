@@ -1,5 +1,5 @@
 class 3_Exception_Handling_Try_With_Resource{
-	// java 11
+	// java 11s
 	public static void main(String[] args){
 		try(BufferedReader reader = new BufferedReader(new FileReader("C://sample.txt"))){
 			System.out.println(reader.readLine());
