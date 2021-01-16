@@ -1,5 +1,4 @@
 package com.fullarray.dijkstra_algorithm;
-
 public class Edge {
 	private double weight;
 	private Vertex startVertex;
