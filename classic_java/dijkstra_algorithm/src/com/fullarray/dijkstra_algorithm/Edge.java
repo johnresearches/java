@@ -9,11 +9,9 @@ public class Edge {
 		this.setStartVertex(startVertex);
 		this.setTargetVertex(targetVertex);
 	}
-	
 	public double getWeight() {
 		return weight;
 	}
-	
 	public void setWeight(double weight) {
 		this.weight = weight;
 	}
