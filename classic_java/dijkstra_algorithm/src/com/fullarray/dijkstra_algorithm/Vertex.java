@@ -4,7 +4,9 @@ import java.util.List;
 
 public class Vertex implements Comparable<Vertex>{
 	private String name;
+	
 	private List<Edge> adjacenciesList;
+	
 	private boolean visited;
 	private Vertex predecessor;
 	private double distance = Double.MAX_VALUE;
