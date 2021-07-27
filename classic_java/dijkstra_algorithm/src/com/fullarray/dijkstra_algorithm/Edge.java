@@ -1,7 +1,10 @@
 package com.fullarray.dijkstra_algorithm;
 public class Edge {
+	
 	private double weight;
+	
 	private Vertex startVertex;
+	
 	private Vertex targetVertex;
 	
 	public Edge(double weight, Vertex startVertex, Vertex targetVertex) {
