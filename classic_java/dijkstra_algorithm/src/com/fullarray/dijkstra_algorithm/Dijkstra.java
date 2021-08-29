@@ -1,7 +1,5 @@
 package com.fullarray.dijkstra_algorithm;
-
 public class Dijkstra {
-
 	public static void main(String[] args) {
 		
 		// TODO Auto-generated method stub
